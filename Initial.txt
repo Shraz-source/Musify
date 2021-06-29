@@ -1,0 +1,2 @@
+Shraddha: HTML-CSS- linking with Python
+Anand & Saurabh : MODEL working, KNN, and rest (in Python)
